@@ -1,0 +1,25 @@
+eta,prescrizione,astigmatismo,lacrimazione,lenti
+giovane,miope,no,ridotta,no lenti
+giovane,miope,no,normale,morbide
+giovane,miope,si,ridotta,no lenti
+giovane,miope,si,normale,rigide
+giovane,ipermetrope,no,ridotta,no lenti
+giovane,ipermetrope,no,normale,morbide
+giovane,ipermetrope,si,ridotta,no lenti
+giovane,ipermetrope,si,normale,rigide
+pre-presbiopia,miope,no,ridotta,no lenti
+pre-presbiopia,miope,no,normale,morbide
+pre-presbiopia,miope,si,ridotta,no lenti
+pre-presbiopia,miope,si,normale,rigide
+pre-presbiopia,ipermetrope,no,ridotta,no lenti
+pre-presbiopia,ipermetrope,no,normale,morbide
+pre-presbiopia,ipermetrope,si,ridotta,no lenti
+pre-presbiopia,ipermetrope,si,normale,no lenti
+presbite,miope,no,ridotta,no lenti
+presbite,miope,no,normale,no lenti
+presbite,miope,si,ridotta,no lenti
+presbite,miope,si,normale,rigide
+presbite,ipermetrope,no,ridotta,no lenti
+presbite,ipermetrope,no,normale,morbide
+presbite,ipermetrope,si,ridotta,no lenti
+presbite,ipermetrope,si,normale,no lenti
